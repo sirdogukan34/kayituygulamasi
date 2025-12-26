@@ -54,7 +54,3 @@ Kullanıcıların sosyal medya veya diğer hesap bilgilerini güvenli ve düzenl
 
 ---
 
-## ⚡ Lisans
-
-Bu proje **MIT Lisansı** ile lisanslanmıştır.  
-Dilediğiniz gibi kullanabilir ve geliştirebilirsiniz.
