@@ -1,0 +1,5 @@
+C:\Users\doguk\OneDrive\Desktop\uygulama\WinFormsApp2.exe
+C:\Users\doguk\OneDrive\Desktop\uygulama\WinFormsApp2.dll
+C:\Users\doguk\OneDrive\Desktop\uygulama\WinFormsApp2.deps.json
+C:\Users\doguk\OneDrive\Desktop\uygulama\WinFormsApp2.runtimeconfig.json
+C:\Users\doguk\OneDrive\Desktop\uygulama\WinFormsApp2.pdb
